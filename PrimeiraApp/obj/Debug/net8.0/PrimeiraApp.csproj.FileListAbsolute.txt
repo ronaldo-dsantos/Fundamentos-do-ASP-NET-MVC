@@ -28,3 +28,4 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\06-fundamentos-do-asp-net-mv
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\06-fundamentos-do-asp-net-mvc\PrimeiraApp\obj\Debug\net8.0\PrimeiraApp.pdb
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\06-fundamentos-do-asp-net-mvc\PrimeiraApp\obj\Debug\net8.0\PrimeiraApp.genruntimeconfig.cache
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\06-fundamentos-do-asp-net-mvc\PrimeiraApp\obj\Debug\net8.0\ref\PrimeiraApp.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\06-fundamentos-do-asp-net-mvc\PrimeiraApp\obj\Debug\net8.0\PrimeiraApp.sourcelink.json
