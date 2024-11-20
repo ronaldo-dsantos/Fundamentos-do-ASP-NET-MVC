@@ -1,7 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using PrimeiraApp.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Adicionando a conexão com o banco de dados, os dados da string de conexão estão no arquivo appsettings.json
+builder.Services.AddDbContext<AppDbContext>(o => 
+    o.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 

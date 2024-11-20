@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PrimeiraApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\PrimeiraApp.bundle.scp.css"
+      "PackagePath": "staticwebassets\\PrimeiraApp.di16r0nmym.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\wwwroot\\css\\site.css",
@@ -243,6 +243,10 @@
     {
       "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PrimeiraApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PrimeiraApp.Microsoft.AspNetCore.StaticWebAssets.props",
