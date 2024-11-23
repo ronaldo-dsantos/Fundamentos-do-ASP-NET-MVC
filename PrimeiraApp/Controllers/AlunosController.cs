@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using PrimeiraApp.Data;
 using PrimeiraApp.Models;
 
@@ -12,9 +14,9 @@ namespace PrimeiraApp.Controllers
         {
             _context = context;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            return View(await _context.Alunos.ToListAsync());
         }
 
         public IActionResult Create()
@@ -26,12 +28,51 @@ namespace PrimeiraApp.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nome,DataNascimento,Email,EmailConfirmacao,Avaliacao,Ativo")]Aluno aluno) // Estamos utilizando o Bind por questão de segurança, para informar apenas o nome dos campos que queremos receber
         {
-            _context.Alunos.Add(aluno);
-            await _context.SaveChangesAsync();
+            if (ModelState.IsValid)
+            {
+                _context.Alunos.Add(aluno);
+                await _context.SaveChangesAsync();
 
-            return RedirectToAction(nameof(Index)); // Redirecionando para a controller index
+                return RedirectToAction(nameof(Index)); // Redirecionando para a controller index
+            }
+
+            return View(aluno);
         }
 
+        public async Task<IActionResult> Details(int id)
+        {
+            var aluno = await _context.Alunos.FirstOrDefaultAsync(m => m.Id == id);
 
+            return View(aluno);
+        }
+
+        public async Task<IActionResult> Edit(int id)
+        {
+            var aluno = await _context.Alunos.FindAsync(id);
+
+            return View(aluno);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,DataNascimento,Email,Avaliacao,Ativo")] Aluno aluno) 
+        {
+            if (id != aluno.Id)
+            {
+                return NotFound();
+            }
+
+            ModelState.Remove("EmailConfirmacao"); // Removendo a chave que não queremos validar no ModelState
+
+            if (ModelState.IsValid)
+            {
+                _context.Update(aluno);
+                await _context.SaveChangesAsync();
+
+                return RedirectToAction(nameof(Index)); // Redirecionando para a controller index
+            }
+
+            return View(aluno);
+        }
     }
 }
