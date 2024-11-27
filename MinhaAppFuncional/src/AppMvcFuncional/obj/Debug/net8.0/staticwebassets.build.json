@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xVheMNJsT3D0xUZWLCyolTKfNsB6EF8FAq3KWo0PMuY=",
+  "Hash": "+oCZZeSxTJcfIBGHlzpiAJynLPKgqSYPfPMOIym0CCU=",
   "Source": "AppMvcFuncional",
   "BasePath": "_content/AppMvcFuncional",
   "Mode": "Default",
@@ -2327,6 +2327,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\font-awesome\\font-awesome-all.min.css",
+      "SourceId": "AppMvcFuncional",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "BasePath": "_content/AppMvcFuncional",
+      "RelativePath": "lib/font-awesome/font-awesome-all.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q2hvp77wc2",
+      "Integrity": "Mg1XLfuETnFSSAt7YjdCNsSJbMyjrJ1puwPzvCA0rLg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\font-awesome-all.min.css"
+    },
+    {
       "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AppMvcFuncional",
       "SourceType": "Discovered",
@@ -2577,6 +2598,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.ttf",
+      "SourceId": "AppMvcFuncional",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "BasePath": "_content/AppMvcFuncional",
+      "RelativePath": "lib/webfonts/fa-brands-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7c7cqgay4x",
+      "Integrity": "J2rwMHEH/D4oIY89WA0mNrKoWWajCbnJN8eZ8+FPTqI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.woff2",
+      "SourceId": "AppMvcFuncional",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "BasePath": "_content/AppMvcFuncional",
+      "RelativePath": "lib/webfonts/fa-brands-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nrtskw6vbt",
+      "Integrity": "TUbDvNSeAIWC8cAe6I7ZpJTRUGQ+PpR+t3EBgICEA8k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.ttf",
+      "SourceId": "AppMvcFuncional",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "BasePath": "_content/AppMvcFuncional",
+      "RelativePath": "lib/webfonts/fa-regular-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "suzcxt4ejo",
+      "Integrity": "fKotjWzAPF7p/CPqt6GTtOPOZnRpw/lVo1+VehSsK34=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.woff2",
+      "SourceId": "AppMvcFuncional",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "BasePath": "_content/AppMvcFuncional",
+      "RelativePath": "lib/webfonts/fa-regular-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctahsq7zc9",
+      "Integrity": "ADtVFE83DAfCvG+PgEVbyn1hovsnZlUYg3NCSelT5wA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.ttf",
+      "SourceId": "AppMvcFuncional",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "BasePath": "_content/AppMvcFuncional",
+      "RelativePath": "lib/webfonts/fa-solid-900#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zgwn4bvl33",
+      "Integrity": "I8T5nukHQRFxCdgTuTe5vG6XGieB/t56qXVBSs7E9T8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.woff2",
+      "SourceId": "AppMvcFuncional",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "BasePath": "_content/AppMvcFuncional",
+      "RelativePath": "lib/webfonts/fa-solid-900#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cnwat648kd",
+      "Integrity": "OOdqs9NZ53Lp8qqxH7sHouIgkxgYOonO0Kl9a5WKem8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.ttf",
+      "SourceId": "AppMvcFuncional",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "BasePath": "_content/AppMvcFuncional",
+      "RelativePath": "lib/webfonts/fa-v4compatibility#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gaqo039666",
+      "Integrity": "6GjzAS9y4V7m5SU2aYlUmotg5CtITkoiUYumVyh7F0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.woff2",
+      "SourceId": "AppMvcFuncional",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "BasePath": "_content/AppMvcFuncional",
+      "RelativePath": "lib/webfonts/fa-v4compatibility#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbha0rj55r",
+      "Integrity": "0M2CQReMtljC3/h2/WfOqpJhmMMUSb+h2bUZnMV8GJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-v4compatibility.woff2"
     }
   ],
   "Endpoints": [
@@ -8901,6 +9090,88 @@
       ]
     },
     {
+      "Route": "lib/font-awesome/font-awesome-all.min.css",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\font-awesome\\font-awesome-all.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mg1XLfuETnFSSAt7YjdCNsSJbMyjrJ1puwPzvCA0rLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 03:52:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mg1XLfuETnFSSAt7YjdCNsSJbMyjrJ1puwPzvCA0rLg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/font-awesome-all.min.q2hvp77wc2.css",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\font-awesome\\font-awesome-all.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mg1XLfuETnFSSAt7YjdCNsSJbMyjrJ1puwPzvCA0rLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 03:52:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q2hvp77wc2"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/font-awesome-all.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mg1XLfuETnFSSAt7YjdCNsSJbMyjrJ1puwPzvCA0rLg="
+        }
+      ]
+    },
+    {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
       "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
@@ -9881,6 +10152,662 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-brands-400.7c7cqgay4x.ttf",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2rwMHEH/D4oIY89WA0mNrKoWWajCbnJN8eZ8+FPTqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7c7cqgay4x"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-brands-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2rwMHEH/D4oIY89WA0mNrKoWWajCbnJN8eZ8+FPTqI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-brands-400.nrtskw6vbt.woff2",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TUbDvNSeAIWC8cAe6I7ZpJTRUGQ+PpR+t3EBgICEA8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nrtskw6vbt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-brands-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TUbDvNSeAIWC8cAe6I7ZpJTRUGQ+PpR+t3EBgICEA8k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-brands-400.ttf",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2rwMHEH/D4oIY89WA0mNrKoWWajCbnJN8eZ8+FPTqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2rwMHEH/D4oIY89WA0mNrKoWWajCbnJN8eZ8+FPTqI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-brands-400.woff2",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TUbDvNSeAIWC8cAe6I7ZpJTRUGQ+PpR+t3EBgICEA8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TUbDvNSeAIWC8cAe6I7ZpJTRUGQ+PpR+t3EBgICEA8k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-regular-400.ctahsq7zc9.woff2",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADtVFE83DAfCvG+PgEVbyn1hovsnZlUYg3NCSelT5wA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctahsq7zc9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-regular-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADtVFE83DAfCvG+PgEVbyn1hovsnZlUYg3NCSelT5wA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-regular-400.suzcxt4ejo.ttf",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKotjWzAPF7p/CPqt6GTtOPOZnRpw/lVo1+VehSsK34=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "suzcxt4ejo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-regular-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKotjWzAPF7p/CPqt6GTtOPOZnRpw/lVo1+VehSsK34="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-regular-400.ttf",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKotjWzAPF7p/CPqt6GTtOPOZnRpw/lVo1+VehSsK34=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKotjWzAPF7p/CPqt6GTtOPOZnRpw/lVo1+VehSsK34="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-regular-400.woff2",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADtVFE83DAfCvG+PgEVbyn1hovsnZlUYg3NCSelT5wA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADtVFE83DAfCvG+PgEVbyn1hovsnZlUYg3NCSelT5wA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-solid-900.cnwat648kd.woff2",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OOdqs9NZ53Lp8qqxH7sHouIgkxgYOonO0Kl9a5WKem8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cnwat648kd"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-solid-900.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OOdqs9NZ53Lp8qqxH7sHouIgkxgYOonO0Kl9a5WKem8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-solid-900.ttf",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I8T5nukHQRFxCdgTuTe5vG6XGieB/t56qXVBSs7E9T8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I8T5nukHQRFxCdgTuTe5vG6XGieB/t56qXVBSs7E9T8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-solid-900.woff2",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OOdqs9NZ53Lp8qqxH7sHouIgkxgYOonO0Kl9a5WKem8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OOdqs9NZ53Lp8qqxH7sHouIgkxgYOonO0Kl9a5WKem8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-solid-900.zgwn4bvl33.ttf",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I8T5nukHQRFxCdgTuTe5vG6XGieB/t56qXVBSs7E9T8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zgwn4bvl33"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-solid-900.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I8T5nukHQRFxCdgTuTe5vG6XGieB/t56qXVBSs7E9T8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-v4compatibility.gaqo039666.ttf",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GjzAS9y4V7m5SU2aYlUmotg5CtITkoiUYumVyh7F0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gaqo039666"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-v4compatibility.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6GjzAS9y4V7m5SU2aYlUmotg5CtITkoiUYumVyh7F0A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-v4compatibility.kbha0rj55r.woff2",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0M2CQReMtljC3/h2/WfOqpJhmMMUSb+h2bUZnMV8GJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbha0rj55r"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-v4compatibility.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0M2CQReMtljC3/h2/WfOqpJhmMMUSb+h2bUZnMV8GJU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-v4compatibility.ttf",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GjzAS9y4V7m5SU2aYlUmotg5CtITkoiUYumVyh7F0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6GjzAS9y4V7m5SU2aYlUmotg5CtITkoiUYumVyh7F0A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-v4compatibility.woff2",
+      "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0M2CQReMtljC3/h2/WfOqpJhmMMUSb+h2bUZnMV8GJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0M2CQReMtljC3/h2/WfOqpJhmMMUSb+h2bUZnMV8GJU="
         }
       ]
     }

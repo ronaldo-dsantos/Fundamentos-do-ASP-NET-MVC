@@ -46,6 +46,7 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\font-awesome\font-awesome-all.min.css
 wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
@@ -58,3 +59,11 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\webfonts\fa-brands-400.ttf
+wwwroot\lib\webfonts\fa-brands-400.woff2
+wwwroot\lib\webfonts\fa-regular-400.ttf
+wwwroot\lib\webfonts\fa-regular-400.woff2
+wwwroot\lib\webfonts\fa-solid-900.ttf
+wwwroot\lib\webfonts\fa-solid-900.woff2
+wwwroot\lib\webfonts\fa-v4compatibility.ttf
+wwwroot\lib\webfonts\fa-v4compatibility.woff2

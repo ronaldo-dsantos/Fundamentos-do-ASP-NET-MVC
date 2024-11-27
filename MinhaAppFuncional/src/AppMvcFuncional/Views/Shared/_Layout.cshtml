@@ -7,6 +7,17 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AppMvcFuncional.styles.css" asp-append-version="true" />
+       
+    @* incluir para ambiente de desenvovimento *@
+    <environment include="Development"> 
+        <link rel="stylesheet" href="~/lib/font-awesome/font-awesome-all.min.css" />
+    </environment>
+
+    @* excluir para ambiente que NÂO seja de desenvovimento *@
+    <environment exclude="Development">        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </environment>
+
 </head>
 <body>
     <header>

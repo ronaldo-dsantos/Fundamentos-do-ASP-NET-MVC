@@ -197,6 +197,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\font-awesome\\font-awesome-all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\font-awesome-all.min.css"
+    },
+    {
       "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
@@ -243,6 +247,38 @@
     {
       "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-v4compatibility.woff2"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppMvcFuncional.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

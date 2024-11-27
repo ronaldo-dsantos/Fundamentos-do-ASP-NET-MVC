@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppMvcFuncional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a3f04d5fe97e6f26a4b3e1d5a2c42406b86644d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+498de16e4c2a1a66da6d7fe701eb5d9d53de4d9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppMvcFuncional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppMvcFuncional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6241,6 +6241,88 @@
       ]
     },
     {
+      "Route": "lib/font-awesome/font-awesome-all.min.css",
+      "AssetFile": "lib/font-awesome/font-awesome-all.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mg1XLfuETnFSSAt7YjdCNsSJbMyjrJ1puwPzvCA0rLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 03:52:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mg1XLfuETnFSSAt7YjdCNsSJbMyjrJ1puwPzvCA0rLg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/font-awesome/font-awesome-all.min.q2hvp77wc2.css",
+      "AssetFile": "lib/font-awesome/font-awesome-all.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mg1XLfuETnFSSAt7YjdCNsSJbMyjrJ1puwPzvCA0rLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 03:52:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q2hvp77wc2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mg1XLfuETnFSSAt7YjdCNsSJbMyjrJ1puwPzvCA0rLg="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/font-awesome/font-awesome-all.min.css"
+        }
+      ]
+    },
+    {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
       "AssetFile": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "Selectors": [],
@@ -7221,6 +7303,662 @@
         {
           "Name": "integrity",
           "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-brands-400.7c7cqgay4x.ttf",
+      "AssetFile": "lib/webfonts/fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2rwMHEH/D4oIY89WA0mNrKoWWajCbnJN8eZ8+FPTqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7c7cqgay4x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2rwMHEH/D4oIY89WA0mNrKoWWajCbnJN8eZ8+FPTqI="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-brands-400.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-brands-400.nrtskw6vbt.woff2",
+      "AssetFile": "lib/webfonts/fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TUbDvNSeAIWC8cAe6I7ZpJTRUGQ+PpR+t3EBgICEA8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nrtskw6vbt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TUbDvNSeAIWC8cAe6I7ZpJTRUGQ+PpR+t3EBgICEA8k="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-brands-400.woff2"
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-brands-400.ttf",
+      "AssetFile": "lib/webfonts/fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2rwMHEH/D4oIY89WA0mNrKoWWajCbnJN8eZ8+FPTqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2rwMHEH/D4oIY89WA0mNrKoWWajCbnJN8eZ8+FPTqI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-brands-400.woff2",
+      "AssetFile": "lib/webfonts/fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TUbDvNSeAIWC8cAe6I7ZpJTRUGQ+PpR+t3EBgICEA8k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TUbDvNSeAIWC8cAe6I7ZpJTRUGQ+PpR+t3EBgICEA8k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-regular-400.ctahsq7zc9.woff2",
+      "AssetFile": "lib/webfonts/fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADtVFE83DAfCvG+PgEVbyn1hovsnZlUYg3NCSelT5wA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctahsq7zc9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADtVFE83DAfCvG+PgEVbyn1hovsnZlUYg3NCSelT5wA="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-regular-400.woff2"
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-regular-400.suzcxt4ejo.ttf",
+      "AssetFile": "lib/webfonts/fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKotjWzAPF7p/CPqt6GTtOPOZnRpw/lVo1+VehSsK34=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "suzcxt4ejo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKotjWzAPF7p/CPqt6GTtOPOZnRpw/lVo1+VehSsK34="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-regular-400.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-regular-400.ttf",
+      "AssetFile": "lib/webfonts/fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKotjWzAPF7p/CPqt6GTtOPOZnRpw/lVo1+VehSsK34=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKotjWzAPF7p/CPqt6GTtOPOZnRpw/lVo1+VehSsK34="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-regular-400.woff2",
+      "AssetFile": "lib/webfonts/fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADtVFE83DAfCvG+PgEVbyn1hovsnZlUYg3NCSelT5wA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADtVFE83DAfCvG+PgEVbyn1hovsnZlUYg3NCSelT5wA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-solid-900.cnwat648kd.woff2",
+      "AssetFile": "lib/webfonts/fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OOdqs9NZ53Lp8qqxH7sHouIgkxgYOonO0Kl9a5WKem8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cnwat648kd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OOdqs9NZ53Lp8qqxH7sHouIgkxgYOonO0Kl9a5WKem8="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-solid-900.woff2"
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-solid-900.ttf",
+      "AssetFile": "lib/webfonts/fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I8T5nukHQRFxCdgTuTe5vG6XGieB/t56qXVBSs7E9T8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I8T5nukHQRFxCdgTuTe5vG6XGieB/t56qXVBSs7E9T8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-solid-900.woff2",
+      "AssetFile": "lib/webfonts/fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OOdqs9NZ53Lp8qqxH7sHouIgkxgYOonO0Kl9a5WKem8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OOdqs9NZ53Lp8qqxH7sHouIgkxgYOonO0Kl9a5WKem8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-solid-900.zgwn4bvl33.ttf",
+      "AssetFile": "lib/webfonts/fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I8T5nukHQRFxCdgTuTe5vG6XGieB/t56qXVBSs7E9T8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zgwn4bvl33"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I8T5nukHQRFxCdgTuTe5vG6XGieB/t56qXVBSs7E9T8="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-solid-900.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-v4compatibility.gaqo039666.ttf",
+      "AssetFile": "lib/webfonts/fa-v4compatibility.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GjzAS9y4V7m5SU2aYlUmotg5CtITkoiUYumVyh7F0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gaqo039666"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6GjzAS9y4V7m5SU2aYlUmotg5CtITkoiUYumVyh7F0A="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-v4compatibility.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-v4compatibility.kbha0rj55r.woff2",
+      "AssetFile": "lib/webfonts/fa-v4compatibility.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0M2CQReMtljC3/h2/WfOqpJhmMMUSb+h2bUZnMV8GJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbha0rj55r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0M2CQReMtljC3/h2/WfOqpJhmMMUSb+h2bUZnMV8GJU="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/webfonts/fa-v4compatibility.woff2"
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-v4compatibility.ttf",
+      "AssetFile": "lib/webfonts/fa-v4compatibility.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GjzAS9y4V7m5SU2aYlUmotg5CtITkoiUYumVyh7F0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6GjzAS9y4V7m5SU2aYlUmotg5CtITkoiUYumVyh7F0A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/webfonts/fa-v4compatibility.woff2",
+      "AssetFile": "lib/webfonts/fa-v4compatibility.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0M2CQReMtljC3/h2/WfOqpJhmMMUSb+h2bUZnMV8GJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 04:34:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0M2CQReMtljC3/h2/WfOqpJhmMMUSb+h2bUZnMV8GJU="
         }
       ]
     }
