@@ -72,6 +72,8 @@ namespace AppMvcFuncional.Controllers
                 return NotFound();
             }
 
+            ModelState.Remove("EmailConfirmacao"); //precisamos remover este campo do ModelState porque ele não existe no banco de dados, se não removermos vai dar erro para salvar no banco de dados
+
             if (ModelState.IsValid)
             {
                 try
