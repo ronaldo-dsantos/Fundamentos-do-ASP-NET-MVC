@@ -5,6 +5,7 @@ using AppMvcFuncional.Models;
 
 namespace AppMvcFuncional.Controllers
 {
+    [Route("meus-alunos")]
     public class AlunosController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -19,13 +20,9 @@ namespace AppMvcFuncional.Controllers
             return View(await _context.Aluno.ToListAsync());
         }
 
-        public async Task<IActionResult> Details(int? id)
+        [Route("detalhes/{id:int}")]
+        public async Task<IActionResult> Details(int id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
             var aluno = await _context.Aluno
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (aluno == null)
@@ -36,12 +33,13 @@ namespace AppMvcFuncional.Controllers
             return View(aluno);
         }
 
+        [Route("novo")]
         public IActionResult Create()
         {
             return View();
         }
 
-        [HttpPost]
+        [HttpPost("novo")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nome,DataNascimento,Email,EmailConfirmacao,Avaliacao,Ativo")] Aluno aluno)
         {
@@ -54,13 +52,9 @@ namespace AppMvcFuncional.Controllers
             return View(aluno);
         }
 
-        public async Task<IActionResult> Edit(int? id)
+        [Route("editar/{id:int}")]
+        public async Task<IActionResult> Edit(int id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
             var aluno = await _context.Aluno.FindAsync(id);
             if (aluno == null)
             {
@@ -69,7 +63,7 @@ namespace AppMvcFuncional.Controllers
             return View(aluno);
         }
 
-        [HttpPost]
+        [HttpPost("editar/{id:int}")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,DataNascimento,Email,Avaliacao,Ativo")] Aluno aluno)
         {
@@ -101,13 +95,9 @@ namespace AppMvcFuncional.Controllers
             return View(aluno);
         }
 
-        public async Task<IActionResult> Delete(int? id)
+        [Route("excluir/{id:int}")]
+        public async Task<IActionResult> Delete(int id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
             var aluno = await _context.Aluno
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (aluno == null)
@@ -118,7 +108,7 @@ namespace AppMvcFuncional.Controllers
             return View(aluno);
         }
 
-        [HttpPost, ActionName("Delete")] // informando que o nome da action é Delete, isso porque não foi possível usar delete porque o nome já existe usando o mesmo parametro
+        [HttpPost("excluir/{id:int}"), ActionName("Delete")] // informando que o nome da action é Delete, isso porque não foi possível usar delete porque o nome já existe usando o mesmo parametro
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
