@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using AppMvcFuncional.Data;
 using AppMvcFuncional.Models;
@@ -19,13 +14,11 @@ namespace AppMvcFuncional.Controllers
             _context = context;
         }
 
-        // GET: Alunos
         public async Task<IActionResult> Index()
         {
             return View(await _context.Aluno.ToListAsync());
         }
 
-        // GET: Alunos/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -43,18 +36,14 @@ namespace AppMvcFuncional.Controllers
             return View(aluno);
         }
 
-        // GET: Alunos/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Alunos/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nome,DataNascimento,Email,Avaliacao,Ativo")] Aluno aluno)
+        public async Task<IActionResult> Create([Bind("Id,Nome,DataNascimento,Email,EmailConfirmacao,Avaliacao,Ativo")] Aluno aluno)
         {
             if (ModelState.IsValid)
             {
@@ -65,7 +54,6 @@ namespace AppMvcFuncional.Controllers
             return View(aluno);
         }
 
-        // GET: Alunos/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -81,9 +69,6 @@ namespace AppMvcFuncional.Controllers
             return View(aluno);
         }
 
-        // POST: Alunos/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,DataNascimento,Email,Avaliacao,Ativo")] Aluno aluno)
@@ -116,7 +101,6 @@ namespace AppMvcFuncional.Controllers
             return View(aluno);
         }
 
-        // GET: Alunos/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -134,8 +118,7 @@ namespace AppMvcFuncional.Controllers
             return View(aluno);
         }
 
-        // POST: Alunos/Delete/5
-        [HttpPost, ActionName("Delete")]
+        [HttpPost, ActionName("Delete")] // informando que o nome da action é Delete, isso porque não foi possível usar delete porque o nome já existe usando o mesmo parametro
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {

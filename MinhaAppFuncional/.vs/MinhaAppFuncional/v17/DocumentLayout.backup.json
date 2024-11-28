@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1A7CA29-2CE0-486F-96C8-E05987518409}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\minhaappfuncional\\src\\appmvcfuncional\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1A7CA29-2CE0-486F-96C8-E05987518409}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|solutionrelative:src\\appmvcfuncional\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1A7CA29-2CE0-486F-96C8-E05987518409}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\minhaappfuncional\\src\\appmvcfuncional\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1A7CA29-2CE0-486F-96C8-E05987518409}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|solutionrelative:src\\appmvcfuncional\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1A7CA29-2CE0-486F-96C8-E05987518409}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\minhaappfuncional\\src\\appmvcfuncional\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1A7CA29-2CE0-486F-96C8-E05987518409}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|solutionrelative:src\\appmvcfuncional\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1A7CA29-2CE0-486F-96C8-E05987518409}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\minhaappfuncional\\src\\appmvcfuncional\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1A7CA29-2CE0-486F-96C8-E05987518409}|src\\AppMvcFuncional\\AppMvcFuncional.csproj|solutionrelative:src\\appmvcfuncional\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "src\\AppMvcFuncional\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "src\\AppMvcFuncional\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T01:48:08.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlunosController.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\Controllers\\AlunosController.cs",
-              "RelativeDocumentMoniker": "src\\AppMvcFuncional\\Controllers\\AlunosController.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\Controllers\\AlunosController.cs",
-              "RelativeToolTip": "src\\AppMvcFuncional\\Controllers\\AlunosController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T01:40:20.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "src\\AppMvcFuncional\\Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\Models\\Aluno.cs",
-              "RelativeToolTip": "src\\AppMvcFuncional\\Models\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T01:35:16.11Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\Views\\Alunos\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\AppMvcFuncional\\Views\\Alunos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\Views\\Alunos\\Create.cshtml*",
+              "RelativeToolTip": "src\\AppMvcFuncional\\Views\\Alunos\\Create.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T02:11:45.629Z",
               "EditorCaption": ""
             }
           ]
