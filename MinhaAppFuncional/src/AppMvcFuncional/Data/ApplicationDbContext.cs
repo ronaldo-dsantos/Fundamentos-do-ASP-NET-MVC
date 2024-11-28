@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using AppMvcFuncional.Models;
 
 namespace AppMvcFuncional.Data
 {
@@ -9,5 +10,6 @@ namespace AppMvcFuncional.Data
             : base(options)
         {
         }
+        public DbSet<Aluno> Aluno { get; set; }
     }
 }
