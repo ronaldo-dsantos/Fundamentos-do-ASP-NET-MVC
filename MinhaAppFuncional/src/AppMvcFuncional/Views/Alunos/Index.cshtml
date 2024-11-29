@@ -6,6 +6,17 @@
 
 <h1>@ViewData["Title"]</h1>
 
+@if (TempData["Sucesso"] != null || ViewData["Sucesso"] != null)
+{
+    var mensagem = TempData["Sucesso"] != null ? TempData["Sucesso"] : ViewData["Sucesso"];
+
+    <div style="padding-top: 15px"></div>
+
+    <div id="msg-box" class="alert alert-success">
+        <h4 id="msgRetorno">@Html.Raw(mensagem)</h4>
+    </div>
+}
+
 <p>
     <a class="btn btn-primary" asp-action="Create"><span class="fa fa-plus"></span> Novo</a>
 </p>

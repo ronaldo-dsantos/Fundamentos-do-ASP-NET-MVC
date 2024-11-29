@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+oCZZeSxTJcfIBGHlzpiAJynLPKgqSYPfPMOIym0CCU=",
+  "Hash": "seHHgEA+p+env4hzLh7pa3+e8fX1OegX1xPEKbKcoH8=",
   "Source": "AppMvcFuncional",
   "BasePath": "_content/AppMvcFuncional",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "4sgrx1heop",
+      "Integrity": "TH0A5tlg3T+ySjrjdGKGIHrgJu+HyGDUgy76k2rgJHU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2934,7 +2934,7 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.4sgrx1heop.css",
       "AssetFile": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2944,7 +2944,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "409"
         },
         {
           "Name": "Content-Type",
@@ -2952,11 +2952,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"TH0A5tlg3T+ySjrjdGKGIHrgJu+HyGDUgy76k2rgJHU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 03:05:08 GMT"
+          "Value": "Thu, 28 Nov 2024 03:24:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2966,7 +2966,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "4sgrx1heop"
         },
         {
           "Name": "label",
@@ -2974,7 +2974,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-TH0A5tlg3T+ySjrjdGKGIHrgJu+HyGDUgy76k2rgJHU="
         }
       ]
     },
@@ -2989,7 +2989,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "409"
         },
         {
           "Name": "Content-Type",
@@ -2997,11 +2997,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"TH0A5tlg3T+ySjrjdGKGIHrgJu+HyGDUgy76k2rgJHU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 03:05:08 GMT"
+          "Value": "Thu, 28 Nov 2024 03:24:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3011,7 +3011,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-TH0A5tlg3T+ySjrjdGKGIHrgJu+HyGDUgy76k2rgJHU="
         }
       ]
     },

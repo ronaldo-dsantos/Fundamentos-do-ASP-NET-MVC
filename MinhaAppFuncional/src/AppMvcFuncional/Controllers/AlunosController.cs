@@ -17,6 +17,8 @@ namespace AppMvcFuncional.Controllers
 
         public async Task<IActionResult> Index()
         {
+            ViewBag.Sucesso = "Listagem bem sucedida!"; // exemplo de ViewData e ViewBag são um estado para passar dados entre a view e controler que não estão tipados em uma model, ViewData e ViewBag tem a duração de apenas um request
+
             return View(await _context.Aluno.ToListAsync());
         }
 
@@ -92,6 +94,9 @@ namespace AppMvcFuncional.Controllers
                         throw;
                     }
                 }
+
+                TempData["Sucesso"] = "Aluno editado com sucesso."; // exemplo de TempData, diferente da ViewData, este estado consegue persistir mais de um request
+
                 return RedirectToAction(nameof(Index));
             }
             return View(aluno);
