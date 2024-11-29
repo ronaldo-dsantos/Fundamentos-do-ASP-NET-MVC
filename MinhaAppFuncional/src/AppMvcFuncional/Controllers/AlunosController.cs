@@ -2,9 +2,11 @@
 using Microsoft.EntityFrameworkCore;
 using AppMvcFuncional.Data;
 using AppMvcFuncional.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace AppMvcFuncional.Controllers
 {
+    [Authorize] // somente para usuários autorizados para ter acesso a todo o conteúdo da controller
     [Route("meus-alunos")]
     public class AlunosController : Controller
     {
@@ -15,6 +17,7 @@ namespace AppMvcFuncional.Controllers
             _context = context;
         }
 
+        [AllowAnonymous] // permitir usuário anônimos (não logado) ter acesso ao index (exceção)
         public async Task<IActionResult> Index()
         {
             ViewBag.Sucesso = "Listagem bem sucedida!"; // exemplo de ViewData e ViewBag são um estado para passar dados entre a view e controler que não estão tipados em uma model, ViewData e ViewBag tem a duração de apenas um request
