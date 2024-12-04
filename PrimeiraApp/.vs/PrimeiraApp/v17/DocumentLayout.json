@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\primeiraapp\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\primeiraapp\\views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|solutionrelative:views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\primeiraapp\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|solutionrelative:views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\primeiraapp\\controllers\\testescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|solutionrelative:controllers\\testescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Views\\Alunos\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Alunos\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Views\\Alunos\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Alunos\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T02:25:19.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Views\\Alunos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Alunos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Views\\Alunos\\Create.cshtml",
-              "RelativeToolTip": "Views\\Alunos\\Create.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T02:09:01.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AlunosController.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Controllers\\AlunosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AlunosController.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Controllers\\AlunosController.cs",
-              "RelativeToolTip": "Controllers\\AlunosController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAjwEsAAAAIAAAAAAAAAA==",
+              "Title": "TestesController.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Controllers\\TestesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestesController.cs",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Controllers\\TestesController.cs",
+              "RelativeToolTip": "Controllers\\TestesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T02:05:45.011Z",
+              "WhenOpened": "2024-12-04T01:22:24.899Z",
               "EditorCaption": ""
             }
           ]

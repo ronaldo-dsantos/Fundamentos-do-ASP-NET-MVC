@@ -12,6 +12,7 @@ namespace PrimeiraApp.Controllers
         {
             Db = db;            
         }
+
         public IActionResult Index()
         {
             // criando um aluno

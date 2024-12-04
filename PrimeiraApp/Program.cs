@@ -23,11 +23,19 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
-app.UseRouting();
+
+app.UseRouting(); // Adicionando rotas a aplicação
 
 app.UseAuthorization();
 
-app.MapControllerRoute(
+// Exemplo de como definir uma rota personalizada para a aplicação (não recomendável, exemplo para conhecimento da funcionalidade)
+// "www.loja.com/MinhaConta/MeusPedidos/2020/Cancelados
+//app.MapControllerRoute( 
+//    name: "MinhaConta",
+//    pattern: "{controller=MinhaConta}/{action=MeusPedidos}/{ano}/{status}");
+
+// Definindo a rota padrão para a aplicação (deixar a rota padrão sempre por último)
+app.MapControllerRoute( 
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
