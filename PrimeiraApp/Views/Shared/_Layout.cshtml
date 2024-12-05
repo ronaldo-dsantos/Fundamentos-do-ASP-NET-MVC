@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@* Arquivo de layout da página principal *@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -9,7 +10,9 @@
     <link rel="stylesheet" href="~/PrimeiraApp.styles.css" asp-append-version="true" />
 </head>
 <body>
-    <partial name="_MenuLayout" /> 
+    <partial name="_MenuLayout" /> @* Exemplo de como usar uma partial view *@
+
+    @* @await Html.PartialAsync("_MenuLayout") Exemplo de como usar uma partial view de forma assincrona, caso seja necessário aguardar o carregamento de algum dado *@
 
     <div class="container">
         <main role="main" class="pb-3">
@@ -21,8 +24,8 @@
         <div class="container">
             &copy; 2024 - PrimeiraApp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
 
-            @* @await Component.InvokeAsync("SaudacaoAluno") *@
-            <vc:saudacao-aluno />
+            @* @await Component.InvokeAsync("SaudacaoAluno") Exemplo de como usar uma view components*@
+            <vc:saudacao-aluno /> @* Exemplo de como usar uma view components desde que esteja cadastrado na View Imports*@
 
         </div>
     </footer>

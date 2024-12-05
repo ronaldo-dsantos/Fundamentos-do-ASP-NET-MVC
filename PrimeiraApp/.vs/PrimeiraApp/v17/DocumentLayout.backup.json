@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\primeiraapp\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|solutionrelative:controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\primeiraapp\\viewcomponents\\saudacaoalunoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|solutionrelative:viewcomponents\\saudacaoalunoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\primeiraapp\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\primeiraapp\\views\\shared\\components\\saudacaoaluno\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|solutionrelative:views\\shared\\components\\saudacaoaluno\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\primeiraapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\primeiraapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC2B12B9-A601-45AF-8EF0-733AFF518F68}|PrimeiraApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T01:16:11.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T01:13:43.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ModelsController.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Controllers\\ModelsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ModelsController.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Controllers\\ModelsController.cs",
-              "RelativeToolTip": "Controllers\\ModelsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Title": "SaudacaoAlunoViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T18:28:02.983Z",
+              "WhenOpened": "2024-12-05T01:05:09.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Models\\Aluno.cs",
-              "RelativeToolTip": "Models\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T17:50:00.234Z",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Views\\Shared\\Components\\SaudacaoAluno\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\SaudacaoAluno\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\06-fundamentos-do-asp-net-mvc\\PrimeiraApp\\Views\\Shared\\Components\\SaudacaoAluno\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\SaudacaoAluno\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T00:57:25.512Z",
               "EditorCaption": ""
             }
           ]
