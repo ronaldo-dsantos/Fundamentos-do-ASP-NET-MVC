@@ -6,6 +6,7 @@ namespace PrimeiraApp.Controllers
 {
     public class TesteEFController : Controller
     {
+        // classe criada para exemplificar o uso do EF Core
         public AppDbContext Db { get; set; }
 
         public TesteEFController(AppDbContext db)
