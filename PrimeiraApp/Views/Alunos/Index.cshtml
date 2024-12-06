@@ -1,10 +1,10 @@
-﻿@model IEnumerable<Aluno> // Model coleção de alunos
+﻿@model IEnumerable<Aluno> // Informando que a model é uma coleção de alunos
 
 <table>
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Nome)
+                @Html.DisplayNameFor(model => model.Nome) @* Exibindo o nome da propriedade modelo (ex: nome, data de nascimento) *@
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.DataNascimento)
@@ -25,11 +25,11 @@
 
     <tbody>
     @{
-        foreach (var item in Model)
+        foreach (var item in Model) // Percorrendos os itens de nossa model
         {
             <tr>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Nome)
+                    @Html.DisplayFor(modelItem => item.Nome) @* Exibindo o conteúdo da propriedade modelo (ex: Ronaldo, 30/09/1985) *@
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.DataNascimento)
@@ -44,8 +44,8 @@
                     @Html.DisplayFor(modelItem => item.Ativo)
                 </td>
                 <td>
-                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
-                        <a asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> @* Link direcionando para o método Details passando o id do aluno no parâmetro da rota *@
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a>
                 </td>
             </tr>
         }

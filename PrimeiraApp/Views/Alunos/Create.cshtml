@@ -1,17 +1,17 @@
-﻿@model Aluno // Formulário tipado do tipo aluno
+﻿@model Aluno // View tipada, o modelo dessa view é Aluno
 
 <h4>Preencha os dados</h4>
 
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Create"> @* Ação do formulário apontando para a controller Create*@ 
+        <form asp-action="Create"> @* Ação do formulário apontando para a controller Create de AlunosController*@ 
 
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div> @* Exibir os erros que retornaram da controller na tela*@
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div> @* Exibir no frontend os erros de validação do formulário que retornaram da controller *@
 
             <div class="form-group">
-                <label asp-for="Nome" class="control-label"></label>
+                <label asp-for="Nome" class="control-label"></label> @* asp-for="Nome" como tipamos nossa view, podemos informar qual atributo vamos usar do nosso modelo *@
                 <input asp-for="Nome" class="form-control" />
-                <span asp-validation-for="Nome" class="text-danger"></span>
+                <span asp-validation-for="Nome" class="text-danger"></span> @* asp-validation-for="Nome" para validação do dado no frontend conforme nossa especificação da model *@
             </div>
 
             <div class="form-group">
@@ -49,6 +49,6 @@
 
 @section Scripts{
     @{
-        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        await Html.RenderPartialAsync("_ValidationScriptsPartial"); // Renderizando o script de validação do formulário
     }
 }
