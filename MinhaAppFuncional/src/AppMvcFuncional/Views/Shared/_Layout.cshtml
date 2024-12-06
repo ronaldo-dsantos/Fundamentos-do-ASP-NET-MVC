@@ -8,12 +8,12 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AppMvcFuncional.styles.css" asp-append-version="true" />
        
-    @* incluir para ambiente de desenvovimento *@
+    @* incluir para ambiente de desenvovimento (neste exemplo estamos usando o font-awesome local quando o ambiente for de desenvolvimento) *@
     <environment include="Development"> 
         <link rel="stylesheet" href="~/lib/font-awesome/font-awesome-all.min.css" />
     </environment>
 
-    @* excluir para ambiente que NÂO seja de desenvovimento *@
+    @* excluir para ambiente que NÂO seja de desenvovimento (neste exemplo estamos usando o font-awesome do cdn quando o ambiente não for de desenvolvimento) *@
     <environment exclude="Development">        
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
     </environment>

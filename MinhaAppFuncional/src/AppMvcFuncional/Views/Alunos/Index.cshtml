@@ -6,7 +6,7 @@
 
 <h1>@ViewData["Title"]</h1>
 
-@if (TempData["Sucesso"] != null || ViewData["Sucesso"] != null)
+@if (TempData["Sucesso"] != null || ViewData["Sucesso"] != null) // exempo de como usar o TempData e ViewData
 {
     var mensagem = TempData["Sucesso"] != null ? TempData["Sucesso"] : ViewData["Sucesso"];
 

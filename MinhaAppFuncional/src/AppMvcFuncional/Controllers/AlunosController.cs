@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace AppMvcFuncional.Controllers
 {
-    [Authorize] // somente para usuários autorizados para ter acesso a todo o conteúdo da controller
-    [Route("meus-alunos")]
+    [Authorize] // somente usuários autorizados poderão ter acesso a todos os métodos da controller
+    [Route("meus-alunos")] // renomeando a rota alunos da controller
     public class AlunosController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -17,15 +17,15 @@ namespace AppMvcFuncional.Controllers
             _context = context;
         }
 
-        [AllowAnonymous] // permitir usuário anônimos (não logado) ter acesso ao index (exceção)
+        [AllowAnonymous] // permitir usuário anônimos (não logado) ter acesso ao método index (exceção a regra geral)
         public async Task<IActionResult> Index()
         {
-            ViewBag.Sucesso = "Listagem bem sucedida!"; // exemplo de ViewData e ViewBag são um estado para passar dados entre a view e controler que não estão tipados em uma model, ViewData e ViewBag tem a duração de apenas um request
+            ViewBag.Sucesso = "Listagem bem sucedida!"; // exemplo de ViewData e ViewBag são um estado para passar dados entre a view e controler que não estão mapeados na model, dado de curto tempo de duração, após a leitura do dado ela perde seu conteúdo, ViewData e ViewBag tem a duração de apenas um request 
 
             return View(await _context.Aluno.ToListAsync());
         }
 
-        [Route("detalhes/{id:int}")]
+        [Route("detalhes/{id:int}")] // renomeando a rota details da controller e recebendo um id por parâmetro
         public async Task<IActionResult> Details(int id)
         {
             var aluno = await _context.Aluno
@@ -77,7 +77,7 @@ namespace AppMvcFuncional.Controllers
                 return NotFound();
             }
 
-            ModelState.Remove("EmailConfirmacao"); //precisamos remover este campo do ModelState porque ele não existe no banco de dados, se não removermos vai dar erro para salvar no banco de dados
+            ModelState.Remove("EmailConfirmacao"); // precisamos remover este campo do ModelState porque ele não existe no banco de dados, se não removermos vai dar erro para salvar no banco de dados
 
             if (ModelState.IsValid)
             {
